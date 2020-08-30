@@ -1,24 +1,30 @@
 {
   "person": [
     {
-      "id": 1101,
+      "person_id": 1101,
       "type": "team_member",
       "name": "john",
       "mentor": {
-        "id": 110,
+        "mentor_id": 110,
         "name": "Lily"
       },
-      "manager": "Ash"
+      "manager": {
+        "manager_id": 2001,
+        "name": "Ash" 
+      }
     },
     {
-      "id": 1102,
+      "person_id": 1102,
       "type": "team_member",
       "name": "Shane",
       "mentor": {
-        "id": 110,
+        "mentor_id": 110,
         "name": "Lene"
       },
-      "manager": "Ashit"
+      "manager": {
+        "name": "Ashit",
+        "manager_id":2002
+      }
     },
     {
       "id": 1103,
@@ -28,7 +34,10 @@
         "id": 110,
         "name": "Kristene"
       },
-      "manager": "Ash"
+      "manager": {
+        "name": "Ash",
+        "manager_id": 2001
+      }
     }
   ]
 }
