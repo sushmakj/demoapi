@@ -3,7 +3,7 @@
     {
       "person_id": 1101,
       "type": "team_member",
-      "name": "john",
+      "name": "John",
       "mentor": {
         "mentor_id": 110,
         "name": "Lily"
