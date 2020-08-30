@@ -27,11 +27,11 @@
       }
     },
     {
-      "id": 1103,
+      "person_id": 1103,
       "type": "team_member",
       "name": "Stacy",
       "mentor": {
-        "person_id": 110,
+        "mentor_id": 110,
         "name": "Kristene"
       },
       "manager": {
