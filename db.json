@@ -31,7 +31,7 @@
       "type": "team_member",
       "name": "Stacy",
       "mentor": {
-        "id": 110,
+        "person_id": 110,
         "name": "Kristene"
       },
       "manager": {
