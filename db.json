@@ -27,45 +27,6 @@
       }
     },
     {
-      "person_id": 1103,
-      "type": "team_member",
-      "name": "Deep",
-      "mentor": {
-        "mentor_id": 110,
-        "name": "Lily"
-      },
-      "manager": {
-        "manager_id": 2001,
-        "name": "Ash"
-      }
-    },
-    {
-      "person_id": 1104,
-      "type": "team_member",
-      "name": "Shane",
-      "mentor": {
-        "mentor_id": 110,
-        "name": "Lene"
-      },
-      "manager": {
-        "name": "Ashit",
-        "manager_id": 2002
-      }
-    },
-    {
-      "person_id": 1105,
-      "type": "team_member",
-      "name": "Martin",
-      "mentor": {
-        "mentor_id": 110,
-        "name": "Lene"
-      },
-      "manager": {
-        "name": "Ashit",
-        "manager_id": 2002
-      }
-    },
-    {
       "person_id": 1106,
       "type": "team_member",
       "name": "Gracy",
@@ -117,31 +78,5 @@
         "manager_id": 2001
       }
     },
-    {
-      "person_id": 1110,
-      "type": "team_member",
-      "name": "Stacy",
-      "mentor": {
-        "mentor_id": 110,
-        "name": "Kristene"
-      },
-      "manager": {
-        "name": "Ash",
-        "manager_id": 2001
-      }
-    },
-    {
-      "person_id": 1111,
-      "type": "team_member",
-      "name": "Loius",
-      "mentor": {
-        "mentor_id": 110,
-        "name": "Kristene"
-      },
-      "manager": {
-        "name": "Ash",
-        "manager_id": 2001
-      }
-    }
   ]
 }
